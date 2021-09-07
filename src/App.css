@@ -36,3 +36,6 @@
     transform: rotate(360deg);
   }
 }
+body {
+  background: url(Photo.jpg) rgb(0, 183, 255) ;
+}
